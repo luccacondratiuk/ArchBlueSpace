@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=ArchBlueSpace
+Description=ArchBlueSpace sddm theme
+Author=luccacondratiuk
+Copyright=(c) 2021, luccacondratiuk
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/luccacondratiuk/ArchBlueSpace
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=jluccacondratiuk@gmail.com
+Theme-Id=ArchBlueSpace
+Theme-API=2.0
